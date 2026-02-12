@@ -1,0 +1,15 @@
+/Users/neegafarhad/Documents/DATAMTIKER/1 SEMESTER/MyCarProjekt3/MyCarProjekt3/bin/Debug/net8.0/MyCarProjekt3
+/Users/neegafarhad/Documents/DATAMTIKER/1 SEMESTER/MyCarProjekt3/MyCarProjekt3/bin/Debug/net8.0/MyCarProjekt3.deps.json
+/Users/neegafarhad/Documents/DATAMTIKER/1 SEMESTER/MyCarProjekt3/MyCarProjekt3/bin/Debug/net8.0/MyCarProjekt3.runtimeconfig.json
+/Users/neegafarhad/Documents/DATAMTIKER/1 SEMESTER/MyCarProjekt3/MyCarProjekt3/bin/Debug/net8.0/MyCarProjekt3.dll
+/Users/neegafarhad/Documents/DATAMTIKER/1 SEMESTER/MyCarProjekt3/MyCarProjekt3/bin/Debug/net8.0/MyCarProjekt3.pdb
+/Users/neegafarhad/Documents/DATAMTIKER/1 SEMESTER/MyCarProjekt3/MyCarProjekt3/obj/Debug/net8.0/MyCarProjekt3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neegafarhad/Documents/DATAMTIKER/1 SEMESTER/MyCarProjekt3/MyCarProjekt3/obj/Debug/net8.0/MyCarProjekt3.AssemblyInfoInputs.cache
+/Users/neegafarhad/Documents/DATAMTIKER/1 SEMESTER/MyCarProjekt3/MyCarProjekt3/obj/Debug/net8.0/MyCarProjekt3.AssemblyInfo.cs
+/Users/neegafarhad/Documents/DATAMTIKER/1 SEMESTER/MyCarProjekt3/MyCarProjekt3/obj/Debug/net8.0/MyCarProjekt3.csproj.CoreCompileInputs.cache
+/Users/neegafarhad/Documents/DATAMTIKER/1 SEMESTER/MyCarProjekt3/MyCarProjekt3/obj/Debug/net8.0/MyCarProjekt3.sourcelink.json
+/Users/neegafarhad/Documents/DATAMTIKER/1 SEMESTER/MyCarProjekt3/MyCarProjekt3/obj/Debug/net8.0/MyCarProjekt3.dll
+/Users/neegafarhad/Documents/DATAMTIKER/1 SEMESTER/MyCarProjekt3/MyCarProjekt3/obj/Debug/net8.0/refint/MyCarProjekt3.dll
+/Users/neegafarhad/Documents/DATAMTIKER/1 SEMESTER/MyCarProjekt3/MyCarProjekt3/obj/Debug/net8.0/MyCarProjekt3.pdb
+/Users/neegafarhad/Documents/DATAMTIKER/1 SEMESTER/MyCarProjekt3/MyCarProjekt3/obj/Debug/net8.0/MyCarProjekt3.genruntimeconfig.cache
+/Users/neegafarhad/Documents/DATAMTIKER/1 SEMESTER/MyCarProjekt3/MyCarProjekt3/obj/Debug/net8.0/ref/MyCarProjekt3.dll
